@@ -1,0 +1,11 @@
+#time {
+  font-size: 70px;
+  font-weight: 500;
+}
+#clock {
+  margin: 50px 0;
+}
+#date {
+  font-size: 20px;
+  font-weight: bold;
+}

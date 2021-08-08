@@ -1,0 +1,7 @@
+#greeting {
+  flex-direction: column;
+  align-items: center;
+}
+#greeting_user {
+  background-color: rgba(0, 0, 0, 0.5);
+}
